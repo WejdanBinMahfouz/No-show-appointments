@@ -7,12 +7,12 @@ The medical appointment dataset contains information on over 100k appointments f
 # Progress outline
 The analysis was done through using data analysis proccess to explore a data set answer analyze questions.
 The data analysis proccess
-1- Ask questions.
-2- Wrangle data.
-3- Exploratory Data Analysis.
-4- Draw conclusions.
+* Ask questions.
+* Wrangle data.
+* Exploratory Data Analysis.
+* Draw conclusions.
 5- Communicate
 # Analysis questions
-1-How many appointements are missed?
-2-Which gender is almost dose not show up in their appointment?
-3-What kind of disease is popular among older patients?
+* How many appointements are missed?
+* Which gender is almost dose not show up in their appointment?
+* What kind of disease is popular among older patients?
