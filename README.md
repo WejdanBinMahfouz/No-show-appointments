@@ -13,6 +13,6 @@ The data analysis proccess
 4- Draw conclusions.
 5- Communicate
 # Analysis questions
-> 1- How many appointements are missed?
-2- Which gender is almost dose not show up in their appointment?
-3- What kind of disease is popular among older patients?
+1-How many appointements are missed?
+2-Which gender is almost dose not show up in their appointment?
+3-What kind of disease is popular among older patients?
